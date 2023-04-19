@@ -2,7 +2,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**THE-VIP-BOY-OP/THE-VIP-BOY-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LUCYDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
+  <img src="https://telegra.ph/file/3bc08a17acdef294e6ab1.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗩𝗜𝗣🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/II_VIP_MUSIC_II_BOT)**
@@ -41,7 +41,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LucyDevil69/VIP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 
@@ -53,7 +53,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/LucyDevil69/VIP-MUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
